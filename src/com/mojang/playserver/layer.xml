@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+  <folder name="Servers">
+    <file name="PlayInstanceProvider.instance">
+      <attr name="instanceClass" stringvalue="org.demo.demoserver.DemoInstanceProvider"/>
+      <attr name="instanceOf" stringvalue="org.netbeans.spi.server.ServerInstanceProvider"/>
+    </file>
+    <file name="PlayWizardProvider.instance">
+      <attr name="instanceClass" stringvalue="org.demo.demoserver.DemoWizardProvider"/>
+      <attr name="instanceOf" stringvalue="org.netbeans.spi.server.ServerWizardProvider"/>
+    </file>
+  </folder>
+</filesystem>
